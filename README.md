@@ -5,7 +5,7 @@
 This is a flask app that visualizes data from the World Bank DataBank. Data is
 cleaned and then visualized using Plotly.
 
-This is a project in development for the Udacity Data Scientist Nanodegree. 
+This project is part of the Udacity Data Scientist Nanodegree. 
 
 ## Prerequisites
 
